@@ -3,6 +3,13 @@
 creates a new repository in that directory. To use version control.
 
 
+?How is the staging area different from the working directory and the repository? What value do you think it offers.
+
+The staging area is where you put the files you want to commit.
+The working directory shows what has and hasn't been commited.
+Lets you have more control on what you want to do.
+
+
 ?
 
 
