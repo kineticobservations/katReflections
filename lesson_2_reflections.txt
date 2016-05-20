@@ -16,4 +16,10 @@ By comparing the staging area to the most recent commit. That way you can see if
 are part of the one logical change.
 
 
+?What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help by having many different versions saved.
+This would be useful when testing out a new feature to add. Or testing layout changes with users. 
+
+
 ?
