@@ -22,4 +22,9 @@ Branches help by having many different versions saved.
 This would be useful when testing out a new feature to add. Or testing layout changes with users. 
 
 
+?How do the diagrams help you visualize the branch structure?
+
+A visual representation helps keep track of what branches start where and are an easy way to see if any commits would be unreachable.
+
+
 ?
