@@ -10,6 +10,10 @@ The working directory shows what has and hasn't been commited.
 Lets you have more control on what you want to do.
 
 
+? How can you use the staging area to make sure you have one commit per logical change.
+
+By comparing the staging area to the most recent commit. That way you can see if those changes
+are part of the one logical change.
+
+
 ?
-
-
