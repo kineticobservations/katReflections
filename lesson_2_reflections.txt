@@ -37,4 +37,11 @@ not abandon those commits. They will then show up by timestamp in git log. Since
 you can use git show to see what the parent of a commit was.
 
 
+?What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Allways doing merging manually is a lot of work when for some changes they can be logically deduced what to keep
+and what to get rid of. However there are many cases when changes are ambiguous. Therefore it is important to do 
+those manually instead of random introducing bugyy/weird code.
+
+
 ?
