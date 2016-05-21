@@ -35,4 +35,11 @@ using this method. I think I would prefer collaborating with some other form of 
 anything would be easier except for the time needed to learn how to use Git.
 
 
+?When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in separate branches is especially useful in a collaborative environment. This way you can work on a feature until
+it's complete and then request to have that change put into master. However if you are working by yourself and just incrementing your
+project along, it would be more simple to just use the master branch as you go.
+
+
 ?
