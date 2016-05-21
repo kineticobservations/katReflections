@@ -5,3 +5,12 @@ in different locations.
 Also if you tend to work from multiple computers.
 Another reason is if you want to share your work publically.
 Also just as a backup periodically if your computer dies, or something else major happens.
+
+
+? Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+During collaboration, someone might push changes that break your code, so being able to manually say where you are at any time in relation to where
+everything else is is important.
+
+
+?
