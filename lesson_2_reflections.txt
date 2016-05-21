@@ -27,4 +27,14 @@ This would be useful when testing out a new feature to add. Or testing layout ch
 A visual representation helps keep track of what branches start where and are an easy way to see if any commits would be unreachable.
 
 
+?What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+git merge takes the parent of both branches and compares them to the tips of each branch.
+by doing so it can take out lines that were omitted and add lines that were added. It takes
+all of those differences and merges them into one commit. This commit will be on the branch name that was currently
+checked out. Then, since the new commit will have parents from each branch, you can delete one of the branches and
+not abandon those commits. They will then show up by timestamp in git log. Since they will be all jumbled together,
+you can use git show to see what the parent of a commit was.
+
+
 ?
