@@ -25,3 +25,14 @@ point back to the original.
 ? What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So you can compare your changes against it.
+
+
+? How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+By sharing files back and forth. Adding changes to the same thing at similar times would be very time consuming
+looking through the changes and manually adding things. Also, I see the possibility of bugs being easier to introduce
+using this method. I think I would prefer collaborating with some other form of version control. I don't really think
+anything would be easier except for the time needed to learn how to use Git.
+
+
+?
