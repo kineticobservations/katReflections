@@ -13,4 +13,10 @@ During collaboration, someone might push changes that break your code, so being 
 everything else is is important.
 
 
-?
+? Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches can exist locally or remotely. They let you develop your code base concurrently. That is have multiple
+versions of your code existing at the same time.
+Clones are a copy of a repository. You can clone something locally or from a remote.
+Forks are special clones of repositorys from one GitHub to another GitHub, they have some special feature, like
+point back to the original.
